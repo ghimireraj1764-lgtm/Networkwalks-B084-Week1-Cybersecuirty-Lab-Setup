@@ -128,3 +128,7 @@ Completing this task gave me a practical introduction to setting up a Linux-base
 
 With Kali Linux configured and a recovery point created, I am ready to explore Linux commands, cybersecurity tools, and practical security concepts in the upcoming weeks of my internship.
 
+Author 
+Raj Ghimire
+www.linkedin.com/in/raj-ghimire-1aabb9414
+
